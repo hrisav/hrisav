@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hrisav <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" align='center'></h1>
 <h3 align="center">A data science professional, passionate about solving real world problems, with strong knowledge in Python, R, SQL, Statistics and Machine Learning algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrisav&label=Profile%20views&color=0e75b6&style=flat" alt="hrisav" /> </p>
 
 - 👨‍💻 Here's my [portfolio](https://hrisav.github.io/projects-portfolio/).
 

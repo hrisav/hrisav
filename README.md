@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **hrisavbhowmick@gmail.com**
 
-- ⚡ Fun fact : **avid East Bengal supporter**
+- ⚡ Fun fact : *avid East Bengal supporter*
 
 - 🤝 Connect with me :  [![Linkedin: hrisav](https://img.shields.io/badge/-hrisav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hrisav)](https://linkedin.com/in/hrisav)
 

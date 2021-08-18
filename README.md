@@ -2,13 +2,15 @@
 <h3 align="center">A data science professional, passionate about solving real world problems, with strong knowledge in Python, R, SQL, Statistics and Machine Learning algorithms.</h3>
 
 
-- 👨‍💻 Here's my [portfolio](https://hrisav.github.io/projects-portfolio/).
+- 🌐 Have a look at my [portfolio](https://hrisav.github.io/).
+
+- 👨‍💻 Here's my collection of [projects](https://hrisav.github.io/projects-portfolio/).
 
 - 📝 Check out some of my [articles](https://hrisavb.medium.com/).
 
 - 📫 You can reach me at **hrisavbhowmick@gmail.com**
 
-- ⚡ Fun fact : *avid East Bengal supporter*
+- ⚡ Fun fact : *avid East Bengal supporter*.
 
 - 🤝 Connect with me :  [![Linkedin: hrisav](https://img.shields.io/badge/-hrisav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hrisav)](https://linkedin.com/in/hrisav)
 

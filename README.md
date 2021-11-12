@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrisav&show_icons=true&locale=en&layout=compact" alt="hrisav" /></p>
 
-<p align="center">I love connecting with people!<b> I’m looking to collaborate on Hackathons and ML/DL projects :)</b> <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="60"></p>
+<p align="center">I love connecting with people!<b> I’m looking to collaborate on Hackathons and ML/DL freelance projects :)</b> <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="60"></p>
